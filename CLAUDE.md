@@ -12,7 +12,7 @@
 ## העלאה לאתר
 - `git push` ל־`main` = עלייה לאתר (Pages בונה לבד). אימות: `gh api repos/arnonyoram-lang/israr-stone/pages/builds/latest --jq .status` → `built`, ואז `curl` לכתובת (200).
 - המאגר ציבורי: לא להכניס אליו מסמכי לקוחות, נתונים או קובצי מקור של הספק.
-- כתובות מוחלטות לשיתוף (`og:image`, `canonical`, `sitemap.xml`, `robots.txt`) מכוונות לכתובת הנוכחית — לעדכן אם עוברים לדומיין משלנו.
+- כתובות מוחלטות לשיתוף (`og:image`, `canonical`, `sitemap.xml`, `robots.txt`). `_config.yml` מסתיר מהאתר את README/CLAUDE/DESIGN מכוונות לכתובת הנוכחית — לעדכן אם עוברים לדומיין משלנו.
 
 ## כללים
 - **פרטי קשר רק של יורם**: מייל `arnon.yoram@gmail.com`; טלפון `050-8224522` (נוסף 18.10.2026, ב־`js/content.js`; רכיבים עם `data-needs` מוסתרים אם השדה ריק).
