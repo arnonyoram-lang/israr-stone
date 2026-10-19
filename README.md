@@ -38,7 +38,7 @@ python -m http.server 5180
 כל שינוי שנשמר ונשלח ל־GitHub (מאגר `arnonyoram-lang/israr-stone`, ענף `main`) עולה לאתר לבד תוך דקה–שתיים (GitHub Pages).
 
 ## איפה שמור
-- תיקיית הפרויקט: `Documents\Codex\Projects\אתר ישראר סטון`
+- תיקיית הפרויקט: `C:\Users\arnon\ישראר סטון`
 - גיבוי: `Dropbox\פרויקטים קלוד\12 אתר ישראר סטון` (כולל קטלוג ה־PDF המקורי בתיקייה `מקורות` — הוא לא נמצא ב־GitHub).
 
 ## סטטוס

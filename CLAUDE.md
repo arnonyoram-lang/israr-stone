@@ -7,7 +7,7 @@
 ## כתובות
 - אתר חי: https://arnonyoram-lang.github.io/israr-stone/
 - מאגר (ציבורי, כמו siteboss): https://github.com/arnonyoram-lang/israr-stone — GitHub Pages מענף `main`, תיקיית שורש.
-- תיקייה: `C:\Users\arnon\Documents\Codex\Projects\אתר ישראר סטון` · גיבוי: `Dropbox\פרויקטים קלוד\12 אתר ישראר סטון` (+ `מקורות\` עם ה־PDF — לא ל־GitHub).
+- תיקייה: `C:\Users\arnon\ישראר סטון` · גיבוי: `Dropbox\פרויקטים קלוד\12 אתר ישראר סטון` (+ `מקורות\` עם ה־PDF — לא ל־GitHub).
 
 ## העלאה לאתר
 - `git push` ל־`main` = עלייה לאתר (Pages בונה לבד). אימות: `gh api repos/arnonyoram-lang/israr-stone/pages/builds/latest --jq .status` → `built`, ואז `curl` לכתובת (200).
